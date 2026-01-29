@@ -1,23 +1,19 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RUQKjpdt)
-# COURSE CODE - EXER CODE
-`Author`: Surname, Given Name(s) MI  
-`Section`: BSXX10XA
+# COURSE CODE - Exercise mo1
+`Author`:MATAWA jAYSON
+`Section`:BSIT302A
 
 ## About
-Put here the description and general instructions of the exercise.
+i forgot how to code using a java language
 
 ## Files Structure
 ```
 main-branch 
-|_ folder1 
-  |_ project.py
-  |_ code.py
-|_ folder2
-  |_ report.pdf 
+src
 ```
 
 ## Challenges Encountered
-Narrate all the challenges you've encountered during development
+the challenge is how to code a java, i forgot how to insert anything of syntax
 
 ## Key Takeaways
-List down your valuable learnings from doing this task.
+the if and the int index=0
